@@ -1,5 +1,7 @@
 # black-sheep
 
+[![Join the chat at https://gitter.im/teaforthecat/black-sheep](https://badges.gitter.im/teaforthecat/black-sheep.svg)](https://gitter.im/teaforthecat/black-sheep?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Clojure project to make sounds
 
 ## Usage
